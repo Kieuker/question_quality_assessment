@@ -12,5 +12,5 @@ Objective of this project is to accomplish Task3 of [Diagnostic Questions compet
 * `/data` : Directory where raw data goes
 * `/submission` : Directory where result `.csv` file goes
   * `template.csv` : Template of csv files
-  * `Result##.csv` : Result of Code##.ipynb
+  * `Result##.csv` : Result of `Code##.ipynb`
 * `Code##.ipynb` : Code of data examination and learning.
